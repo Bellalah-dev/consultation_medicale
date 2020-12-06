@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7a50793-42e4-4d45-81dc-e00b21c26a68" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tr7z8atcw0TZ1XE87VJWs8zEra" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jdom2-2.0.6.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Youssef\IdeaProjects\Consultation_Medicale" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.window">
+    <configuration name="hamza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Consultation_Medicale.hamza" />
+      <module name="Consultation_Medicale" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Consultation_Medicale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Consultation_Medicale.window" />
+      <module name="Consultation_Medicale" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Consultation_Medicale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.window" />
+        <item itemvalue="Application.hamza" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7a50793-42e4-4d45-81dc-e00b21c26a68" name="Default Changelist" comment="" />
+      <created>1574206619696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574206619696</updated>
+      <workItem from="1574206624023" duration="723000" />
+      <workItem from="1574207657727" duration="265000" />
+      <workItem from="1574208176461" duration="29000" />
+      <workItem from="1574268629923" duration="11369000" />
+      <workItem from="1574360104786" duration="708000" />
+      <workItem from="1574425820952" duration="118000" />
+      <workItem from="1574456664437" duration="5299000" />
+      <workItem from="1574515508425" duration="639000" />
+      <workItem from="1574688136729" duration="313000" />
+      <workItem from="1574702810960" duration="861000" />
+      <workItem from="1574722000146" duration="1055000" />
+      <workItem from="1574789973705" duration="1568000" />
+      <workItem from="1575301356828" duration="1829000" />
+      <workItem from="1575310083744" duration="855000" />
+      <workItem from="1575312031553" duration="227000" />
+      <workItem from="1575322079548" duration="1141000" />
+      <workItem from="1575323638929" duration="5295000" />
+      <workItem from="1575378267463" duration="3416000" />
+      <workItem from="1575405327346" duration="3356000" />
+      <workItem from="1576005482129" duration="6075000" />
+      <workItem from="1578591129506" duration="1522000" />
+      <workItem from="1578612095017" duration="750000" />
+      <workItem from="1579891984447" duration="855000" />
+      <workItem from="1580044275229" duration="7832000" />
+      <workItem from="1580053528885" duration="72000" />
+      <workItem from="1580078210384" duration="1172000" />
+      <workItem from="1580079406269" duration="618000" />
+      <workItem from="1580137648156" duration="6299000" />
+      <workItem from="1580145079280" duration="1218000" />
+      <workItem from="1580165098768" duration="1635000" />
+      <workItem from="1580170829227" duration="1700000" />
+      <workItem from="1580839877514" duration="3321000" />
+      <workItem from="1580852137440" duration="3680000" />
+      <workItem from="1580907962629" duration="3269000" />
+      <workItem from="1581015991063" duration="1010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

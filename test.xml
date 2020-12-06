@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients>
+  <patient cin="01">
+    <nom>yosraM</nom>
+    <prenom>MAHNOUCH</prenom>
+    <mail>SDFG</mail>
+    <sexe>femme</sexe>
+    <adresse>NABEUL</adresse>
+  </patient>
+  <patient cin="02">
+    <nom>ammar</nom>
+    <prenom>maher</prenom>
+    <mail>ammarmaher@gmail.com</mail>
+    <sexe>homme</sexe>
+    <adresse>gafsa</adresse>
+  </patient>
+</patients>
